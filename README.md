@@ -3,7 +3,7 @@
 ![download](https://github.com/abdulrahmanyaser/AI-DA/assets/74540804/08701593-1fc2-4ece-a51e-8f0d1638d4fb)  
 
 
-## Note: this repo contains all the projects i used ai tools to analyze and understand and visualize raw dataset.  
+## Note: this repo contains all the projects i will use ai tools to analyze and understand and visualize raw dataset.  
 ### Purpose of this repo:
       using AI TOOLS like [BING, BARD] for mimicing how 'd a real data analyst work and tackle a project in the real life starting with:  
       1- dealing with the client or the customer or the data owner.  
